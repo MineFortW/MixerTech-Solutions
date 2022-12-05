@@ -1,3 +1,11 @@
 User-agent: *
-Allow: /index.html
-Disallowe: /
+Disallow: /css
+Disallow: /fonts
+Disallow: /IMG
+Disallow: /js
+Disallow: /products
+Disallow: /scss
+Disallow: /README.md
+Disallow: /agreements
+Disallow: /contact
+Disallow: /main
