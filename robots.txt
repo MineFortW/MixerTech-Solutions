@@ -6,6 +6,7 @@ Disallow: /js
 Disallow: /products
 Disallow: /scss
 Disallow: /README.md
+Disallow: /#
 Disallow: /agreements
 Disallow: /contact
 Disallow: /main
